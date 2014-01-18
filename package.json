@@ -16,7 +16,7 @@
 
   },
   "main": "index.js",
-  "repository": "",
-  "author": "",
-  "license": ""
+  "repository": "git@github.com:devel-pa/sails-apps.git",
+  "author": "Paul Apostol",
+  "license": "MIT"
 }
