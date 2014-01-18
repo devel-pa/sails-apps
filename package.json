@@ -1,0 +1,22 @@
+{
+  "name": "sails-apps",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Sails sub applications",
+  "dependencies": {
+    "sails-util": "~0.10.0",
+    "lodash": "2.4.1",
+    "include-all": "0.1.2",
+    "async": "0.2.9",
+    "pluralize": "0.0.5",
+    "ejs-locals": "1.0.2",
+    "waterline": "git://github.com/balderdashy/waterline.git#v0.10"
+  },
+  "scripts": {
+
+  },
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": ""
+}
